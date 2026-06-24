@@ -26,14 +26,14 @@
       "recap": "Ascent's first community social event. Turns out engineers are surprisingly competitive on the court. Raised $150",
       "raised": "$150",
       "folder": "pickleball-2026",
-      "images": []
+      "images": ["IMG_0902.png", "IMG_0909.png", "IMG_0915.png"]
     },
     {
       "date": "Oct 2025",
       "title": "ML Workshop",
       "recap": "A practical session on machine learning fundamentals — from data prep to model evaluation. Hands-on, no slides-only fluff.",
       "folder": "ml-workshop-2025",
-      "images": []
+      "images": ["0980fa59-6f97-4cda-b773-92dd68ce0d79.jpg", "3DA42F99-0E45-48A5-9919-E93BA941B88A.jpg", "c78351e7-6911-4038-84c5-33dc1b43ad91.jpg"]
     }
   ]
 }
