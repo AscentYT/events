@@ -1,0 +1,39 @@
+{
+  "upcoming": [
+    {
+      "mon": "AUG",
+      "day": "TBD",
+      "year": "2026",
+      "format": "In person",
+      "title": "Robotics Hackathon",
+      "blurb": "Build, break, and ship something that moves. A full-day robotics hackathon for engineers and tinkerers of all levels.",
+      "spots": "Open seats"
+    },
+    {
+      "mon": "SEP",
+      "day": "TBD",
+      "year": "2026",
+      "format": "In person",
+      "title": "Data Science Hackathon",
+      "blurb": "A hands-on competition bringing together data scientists to tackle real-world problems. Teams, prizes, and a lot of notebooks.",
+      "spots": "Open seats"
+    }
+  ],
+  "past": [
+    {
+      "date": "Feb 2026",
+      "title": "Pickleball Tournament",
+      "recap": "Ascent's first community social event. Turns out engineers are surprisingly competitive on the court. Raised $150 for charity.",
+      "raised": "$150",
+      "folder": "pickleball-2026",
+      "images": []
+    },
+    {
+      "date": "Oct 2025",
+      "title": "ML Workshop",
+      "recap": "A practical session on machine learning fundamentals — from data prep to model evaluation. Hands-on, no slides-only fluff.",
+      "folder": "ml-workshop-2025",
+      "images": []
+    }
+  ]
+}
